@@ -1,6 +1,6 @@
 # Productive ToDoList Using Python
 
-This is a simple ToDoList application built using Python and the Tkinter library. It allows you to manage tasks by adding, removing, and loading tasks with various attributes such as due time, priority, and category.
+This is a simple ToDoList application built using Python and the Tkinter library and also using sqlite as a database the save the tasks into it. It allows you to manage tasks by adding, removing, and loading tasks with various attributes such as due time, priority, and category.
 
 ## Features
 
