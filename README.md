@@ -41,8 +41,7 @@ This is a simple ToDoList application built using Python and the Tkinter library
 4. Run the application:
 
    ```
-   python todolist.py
-   
+   python main.py
    ```
 
 ## Usage
